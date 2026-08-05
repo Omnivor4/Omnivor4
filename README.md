@@ -1,108 +1,68 @@
 <div align="center">
 
-```
- ██████╗ ███╗   ███╗███╗   ██╗██╗██╗   ██╗ ██████╗ ██████╗  █████╗ 
-██╔═══██╗████╗ ████║████╗  ██║██║██║   ██║██╔═══██╗██╔══██╗██╔══██╗
-██║   ██║██╔████╔██║██╔██╗ ██║██║██║   ██║██║   ██║██████╔╝███████║
-██║   ██║██║╚██╔╝██║██║╚██╗██║██║╚██╗ ██╔╝██║   ██║██╔══██╗██╔══██║
-╚██████╔╝██║ ╚═╝ ██║██║ ╚████║██║ ╚████╔╝ ╚██████╔╝██║  ██║██║  ██║
- ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=E5E5E5&background=0D0D0D00&center=true&vCenter=true&width=650&lines=root%40omnivora%3A~%24+whoami;Farrel+Wahyu+Widodo;root%40omnivora%3A~%24+status;building+things+that+outlive+the+hype+cycle" alt="typing banner" />
 
-`system.status` → **ONLINE** &nbsp;|&nbsp; `unit.id` → **Farrel Wahyu Widodo** &nbsp;|&nbsp; `location` → **Sidoarjo, ID**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Omnivor4&label=UNIT+ACCESSED&color=1a1a1a&style=flat-square)
-![Status](https://img.shields.io/badge/BUILD-ACTIVE-1a1a1a?style=flat-square&labelColor=000000)
-![Focus](https://img.shields.io/badge/FOCUS-AI%20%2F%20SOFTWARE%20ENG-1a1a1a?style=flat-square&labelColor=000000)
+<sub>PPLG · 11th Grade · Sidoarjo, ID · brand: <b>omnivora</b></sub>
 
 </div>
 
 <br>
 
-```diff
-+ INIT boot_sequence...
-+ loading identity.cfg          [OK]
-+ loading skillset.pkg          [OK]
-+ mounting /dev/curiosity       [OK]
-+ ready.
+```
+$ cat about.md
 ```
 
-## `> whoami`
-
-Siswa **PPLG (Rekayasa Perangkat Lunak)** kelas 11 di SMK, membangun software dan game di bawah brand pribadi **omnivora**. Fokus di persimpangan antara *software engineering* dan *AI tooling* — lebih tertarik memahami bagaimana sistem bekerja di level fondasi ketimbang cuma memakainya.
-
-```yaml
-role:      Student Engineer / Indie Developer
-brand:     omnivora
-domains:   [Software Development, Game Development, AI Tooling]
-mindset:   build_to_understand > build_to_ship
-```
+> Rekayasa Perangkat Lunak, kelas 11. Ngoprek software dan game di bawah nama **omnivora** — bukan
+> karena ngejar portofolio yang keliatan rame, tapi karena penasaran gimana sistem beneran bekerja
+> sebelum ikut-ikutan pakai. Sekarang lagi banyak mikir soal batas antara "AI yang bikin developer
+> lebih kuat" vs "AI yang gantiin proses belajarnya" — dan Nythros itu jawaban praktisnya.
 
 <br>
 
-## `> featured_process --name=Nythros`
+```
+$ ls -la ./process/active
+```
 
-```
-┌──────────────────────────────────────────────────────────┐
-│  NYTHROS                                          [ALIVE] │
-│  BYOK CLI AI Coding Agent                                 │
-├──────────────────────────────────────────────────────────┤
-│  Command-line agent yang bawa AI coding assistant          │
-│  langsung ke terminal — bring-your-own-key, tanpa vendor    │
-│  lock-in. Dibangun di atas Ink (React for CLI), dengan      │
-│  dukungan MCP dan integrasi Obsidian buat workflow          │
-│  knowledge-base.                                            │
-│                                                              │
-│  stack   : Node.js · Ink · MCP                              │
-│  status  : actively iterating                               │
-└──────────────────────────────────────────────────────────┘
-```
+<table>
+<tr><td width="999">
+
+**`nythros/`** — BYOK CLI AI coding agent
+
+Bukan wrapper tipis di atas satu vendor API. Nythros dibangun biar developer bisa bawa API key
+sendiri, jalan di terminal, dan tetap bisa diperluas lewat MCP tanpa terkunci ke satu provider.
+Dibangun pakai **Ink** (React buat CLI) — jadi interface-nya interaktif meski hidup di terminal,
+plus integrasi ke **Obsidian** buat yang mau workflow-nya nyambung ke knowledge base sendiri.
+
+`Node.js` `Ink` `MCP` — status: *aktif dikembangin, bukan side project yang mati*
 
 **[→ github.com/Omnivor4/Nythros](https://github.com/Omnivor4/Nythros)**
 
-<br>
-
-## `> stack.dump()`
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/-Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/-Vite-1a1a1a?style=flat-square&logo=vite&logoColor=646CFF)
-![Firebase](https://img.shields.io/badge/-Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Unity](https://img.shields.io/badge/-Unity-1a1a1a?style=flat-square&logo=unity&logoColor=FFFFFF)
-
-</div>
+</td></tr>
+</table>
 
 <br>
 
-## `> metrics --live`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omnivor4&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omnivor4&theme=dark&hide_border=true&background=0d0d0d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
-
-</div>
-
-<br>
-
-## `> connect --protocol=all`
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/-farrelwahyuu-1a1a1a?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/farrelwahyuu/)
-[![GitHub](https://img.shields.io/badge/-Omnivor4-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/Omnivor4)
-
-</div>
-
-<br>
-
-```diff
-+ EOF reached.
-+ session logged. see you in the next commit.
+```
+$ git log --oneline --graph --all | head -3
 ```
 
+<img width="100%" src="https://raw.githubusercontent.com/Omnivor4/Omnivor4/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+
+<sub>*(animasi ini update otomatis tiap hari lewat GitHub Actions — setup-nya di bawah)*</sub>
+
+<br>
+
+```
+$ curl -s api.omnivora.dev/socials
+```
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/instagram-%40farrelwahyuu-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D0D0D)](https://www.instagram.com/farrelwahyuu/)
+[![GitHub](https://img.shields.io/badge/github-Omnivor4-0D0D0D?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/Omnivor4)
+
+</div>
+
+<div align="center">
+<sub>process exited with code 0</sub>
 </div>
