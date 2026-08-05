@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=E5E5E5&background=0D0D0D00&center=true&vCenter=true&width=650&lines=root%40omnivora%3A~%24+whoami;Farrel+Wahyu+Widodo;root%40omnivora%3A~%24+status;building+things+that+outlive+the+hype+cycle" alt="typing banner" />
 
-<sub>PPLG · 11th Grade · Sidoarjo, ID · brand: <b>omnivora</b></sub>
+<sub>PPLG · 12th Grade · Sidoarjo, ID · brand: <b>omnivora</b></sub>
 
 </div>
 
